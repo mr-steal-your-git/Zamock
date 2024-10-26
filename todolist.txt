@@ -1,0 +1,17 @@
+Rolling Code
+
+10 more registers X-Y-Z registers are admins with super access
+
+AT+MODE sleep command to enable power saving
+
+
+Dual authentication - if the user is has a matching UID to one of the registers, they must also be clocked in to access the entrance. 
+This is a step to a layered security system that is resilient against hackers who just copy a users key ID.
+
+Being synced to a clock in clock out system hypoethically increased the surface area for attack for the system.
+
+Clock Syncronization
+
+A physical lock componet
+
+ 
